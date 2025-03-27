@@ -2,7 +2,7 @@
   <head>
     <title>Welcome to my New java project this year 2023</title>
   </head>
-  <body bgcolor="#f0f0f0">
+  <body bgcolor="#696969">
     <h1> N Anonymous project </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
